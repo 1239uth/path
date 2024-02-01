@@ -1,6 +1,6 @@
 # Path
 
-Simple Go script that makes it easy to view your $PATH.
+Simple Go script that makes it easy to view your system `$PATH`, by printing it in a readable format.
 
 ## Usage
 ```bash
